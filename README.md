@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoonlightProphecy
-- 👀 I’m interested in Linux, C Coding
+- 👀 I’m interested in Linux, C Coding, Python
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on Linux Projects
 - 📫 How to reach me MoonlightProphecy#9622 On Discord
