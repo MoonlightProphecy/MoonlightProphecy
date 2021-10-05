@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MoonlightProphecy
-- 👀 I’m interested in Linux, C Coding, Python
-- 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on Linux Projects
-- 📫 How to reach me MoonlightProphecy#9622 On Discord
+- Hi, I'm Luci
 
-<!---
-MoonlightProphecy/MoonlightProphecy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I don't really have much to say, I'll prob be here for ease-of-access dotfiles or something, I sadly can't contribute to anything because I don't know programming and have very competent knowledge on Linux as a whole.
